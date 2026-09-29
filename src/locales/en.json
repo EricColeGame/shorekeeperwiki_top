@@ -37,27 +37,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Shorekeeper Wiki Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn what the Shorekeeper does, which abilities to level first, and how to swap her in and out without wasting her buff window."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Best Build",
+          "description": "Stack Energy Regen and HP% on her Echoes so her healing stays high and her Outro Crit buffs keep scaling."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Team Comps",
+          "description": "See which main damage dealers gain the most from her Stellarealm and how to order the rotation around them."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Materials Farming",
+          "description": "Plan her ascension and Forte materials in the right order so a fresh pull becomes field-ready fast."
         }
       ]
     },
@@ -65,265 +65,329 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Build Guide",
+        "Echo Sets",
+        "Team Comps"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything a new Shorekeeper owner needs, from her support role to her first clean rotation.",
+          "href": "/guide/shorekeeper-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Best Build",
+          "description": "Energy Regen and HP% priorities that keep her healing high and her buffs scaling.",
+          "href": "/guide/shorekeeper-build-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Echo Build",
+          "description": "Rejuvenating Glow and Moonlit Clouds compared, with main stat targets for every slot.",
+          "href": "/build/shorekeeper-echo-build"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Weapon Guide",
+          "description": "Which Rectifiers fit her support kit and which stats are worth chasing.",
+          "href": "/build/shorekeeper-weapon"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Team Comps",
+          "description": "The strongest lineups for her Stellarealm and the rotations that hold them together.",
+          "href": "/guide/shorekeeper-team"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Materials Guide",
+          "description": "Ascension and Forte materials sorted into a Waveplate-friendly farming order.",
+          "href": "/build/shorekeeper-materials"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Rotation Guide",
+          "description": "The ability order that keeps her field up and passes Binary Butterfly to your carry.",
+          "href": "/guide/shorekeeper-rotation"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Banner & Rerun",
+          "description": "Her full banner history, dates, and pull planning for the next rerun.",
+          "href": "/characters/shorekeeper-rerun"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What Is the Shorekeeper?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "The Shorekeeper is a 5-star Spectro Resonator in Wuthering Waves who wields a Rectifier and fills the healer and support slot. In the story she is the Guardian of the Black Shores and is known as the Second Instance, a being described as formed from Sonoro Spheres and high-purity Remnant Energy crystals who guides the Tethys System and appears only when the Black Shores face a crisis.",
+        "In combat she is a buff engine rather than a damage dealer. Her Resonance Liberation, End Loop, deploys the Stellarealm field that heals the team and raises Crit Rate and Crit DMG, while her Outro Skill, Binary Butterfly, passes those bonuses to whoever swaps in next. Because those buffs scale with her Energy Regen, this wiki focuses on the stats, Echoes, teams, and rotations that keep her field online."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Rarity",
+          "value": "5-Star"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Element",
+          "value": "Spectro"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Weapon",
+          "value": "Rectifier"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Role",
+          "value": "Healer / Support"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Faction",
+          "value": "The Black Shores"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Debut Version",
+          "value": "1.3"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Signature Skill",
+          "value": "End Loop"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Shorekeeper Wiki",
+      "description": "Everything a Shorekeeper owner needs: starter steps, build and Echo priorities, material farming order, team comps, and the Energy Regen targets that keep her buffs running.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Shorekeeper Wiki Beginner Guide",
+          "description": "A starter guide for players who just pulled the Shorekeeper, covering her Spectro support role, the abilities to level first, and the swap habits that keep her rotations clean.",
+          "href": "/guide/shorekeeper-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Ascend her to phase 4 or 5 before pushing any single node to the cap"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Level Chaos Theory and End Loop first for healing and buff uptime"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Equip a Rectifier with Energy Regen instead of an ATK stat stick"
+            },
+            {
+              "label": "4",
+              "detail": "Swap her out at a full Concerto bar so Binary Butterfly reaches your carry"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Shorekeeper Wiki Crafting Recipes",
+          "description": "A reference for the ascension and Forte materials the Shorekeeper consumes, grouped into the six material buckets every Wuthering Waves build depends on.",
+          "href": "/build",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Resonator EXP",
+              "detail": "Leveling from 1 to 90 through Simulation Training, events, and quest rewards"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Shell Credits",
+              "detail": "Consumed by every upgrade step and farmed from Simulation Training and Tacet Fields"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Common Drops",
+              "detail": "Ascension and Forte materials from overworld mobs, and they cost no Waveplates"
+            },
+            {
+              "label": "Forgery Mats",
+              "detail": "Ascension and Forte materials earned from Forgery Challenges"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Shorekeeper Wiki Farming Guide",
+          "description": "A priority list for farming Shorekeeper materials, ranked by how hard each bucket gates her ascension and Forte upgrades.",
+          "href": "/build/shorekeeper-materials",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Common enemy drops - free to farm anywhere and they feed both ascension and Forte"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Forgery Challenge materials - needed on both tracks and worth daily Waveplates"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Overworld boss drop - gates ascension phases and is limited by daily attempts"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Weekly boss material - only for high-tier Forte nodes and capped per week"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Shorekeeper Wiki Echo Guide",
+          "description": "Where the Shorekeeper's Echo sets come from and the order to farm them, from the default Rejuvenating Glow build to the Moonlit Clouds alternative.",
+          "href": "/build/shorekeeper-echo-build",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Farm Rejuvenating Glow first - it boosts healing and converts it into a team ATK buff"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Keep Energy Regen as the main stat on both 3-cost Echoes"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Use HP% on the 1-cost Echoes to strengthen her healing"
+            },
+            {
+              "label": "4",
+              "detail": "Switch to Moonlit Clouds only when you cannot hit your Energy Regen target"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Shorekeeper Wiki Items Database",
+          "description": "A quick-reference database of the stats and gear the Shorekeeper wants, from Echo main stats to the Rectifier priorities that fund her ultimate.",
+          "href": "/build/shorekeeper-ideal-stats",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Energy Regen",
+              "detail": "Her top priority; it funds End Loop and scales the Crit buffs on her Outro Skill"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "HP%",
+              "detail": "Scales her healing and keeps her alive through sustained endgame fights"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Healing Bonus",
+              "detail": "Bigger heals only, so it is situational next to Energy Regen and HP"
+            },
+            {
+              "label": "Rectifier",
+              "detail": "Her weapon type; choose one with an Energy Regen passive"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Shorekeeper Wiki Update News",
+          "description": "Banner and version news for the Shorekeeper, from her 1.3 debut through every rerun window and what to expect before the next one.",
+          "href": "/characters/shorekeeper-rerun",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Debut",
+              "detail": "Version 1.3, September 29 to October 24, 2024"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Rerun",
+              "detail": "Version 2.2, April 17 to April 28, 2025"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Banner",
+              "detail": "Till the Sea Turns Clear limited Convene"
+            },
+            {
+              "label": "Pull Tip",
+              "detail": "Bank Astrite early because she is a limited five-star"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Shorekeeper Wiki Gameplay Features",
+          "description": "An overview of what the Shorekeeper brings to a team, from healing and crit buffs to the Stellarealm field that anchors her rotations.",
+          "href": "/combat/shorekeeper-kit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Healing",
+              "detail": "End Loop restores HP to nearby Resonators"
+            },
+            {
+              "label": "Crit Buffs",
+              "detail": "The Stellarealm raises Crit Rate and Crit DMG for the whole team"
+            },
+            {
+              "label": "Field",
+              "detail": "A field effect that follows the active Resonator and persists after she leaves"
+            },
+            {
+              "label": "Swap",
+              "detail": "She needs only a few seconds on field before swapping out"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Shorekeeper Wiki Stat Requirements",
+          "description": "A reference for the Shorekeeper's Energy Regen benchmarks, showing how much ER her build needs to keep End Loop and her Crit buffs online.",
+          "href": "/build/shorekeeper-er-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Under 180%",
+              "detail": "End Loop misses rotations and the buffs fall off, so the build needs a rework"
+            },
+            {
+              "label": "180-200%",
+              "detail": "A workable budget minimum with an Energy Regen weapon"
+            },
+            {
+              "label": "200-230%",
+              "detail": "Reliable uptime and strong Crit buffs for most players"
+            },
+            {
+              "label": "230-250%",
+              "detail": "Near the ceiling of her Energy Regen-scaling buffs, ideal for endgame"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Shorekeeper Wiki FAQ",
+      "description": "Quick answers to the most common questions about the Shorekeeper in Wuthering Waves.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "Who is the Shorekeeper in Wuthering Waves?",
+          "answer": "The Shorekeeper is a 5-star Spectro Resonator who wields a Rectifier and fills the healer and support slot. She is the Guardian of the Black Shores, known as the Second Instance, and she debuted in version 1.3 on the Till the Sea Turns Clear Convene."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What stats should a Shorekeeper build focus on?",
+          "answer": "Energy Regen and HP%. The Shorekeeper does not need ATK or Crit stats because her value comes from healing and the Crit Rate and Crit DMG buffs her Outro Skill passes to the next Resonator, both of which scale with Energy Regen and HP."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How much Energy Regen does the Shorekeeper need?",
+          "answer": "Most players land between 200% and 230% Energy Regen for reliable uptime, while 230% to 250% approaches the ceiling of her Energy Regen-scaling buffs. Below 180% her End Loop misses rotations and the buffs fall off."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What is the Shorekeeper's best Echo set?",
+          "answer": "Rejuvenating Glow is the default set because it boosts healing and converts it into a team ATK buff. Moonlit Clouds is the main alternative when you cannot reach your Energy Regen target on the Shorekeeper."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "When does the Shorekeeper banner return?",
+          "answer": "The Shorekeeper is a limited five-star, so her banner only returns when Kuro Games schedules a rerun. She debuted in version 1.3 and returned in a version 2.2 rerun, so check the official Wuthering Waves channels for the next window."
         }
       ]
     },
