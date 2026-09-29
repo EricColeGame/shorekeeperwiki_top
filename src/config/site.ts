@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Builds, Echoes, Teams & Guides",
   description: "Explore Shorekeeper Wiki with complete builds, weapons, echoes, skills, materials, teams, and gameplay guides for Wuthering Waves players!",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://shorekeeperwiki.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://shorekeeperwiki.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@shorekeeperwiki.top",
   gameUrl: "https://wutheringwaves.kurogames.com/",
   heroVideoId: "FQEyNpQnK60", // Wuthering Waves | Resonator Showcase | The Shorekeeper
   social: {
