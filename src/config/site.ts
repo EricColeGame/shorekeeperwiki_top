@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://discord.com/servers/wuthering-waves-official-963760374543450182",
     youtube: "https://www.youtube.com/@WutheringWaves",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "ko", "de"],
   defaultLocale: "en",
 };

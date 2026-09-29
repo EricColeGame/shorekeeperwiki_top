@@ -1,1 +1,467 @@
-{}
+{
+  "site": {
+    "name": "Shorekeeper Wiki",
+    "shortName": "Shorekeeper",
+    "tagline": "ビルド・エコー・編成・ガイド",
+    "description": "Shorekeeper（ショアキーパー）のビルド、武器、エコー、スキル、素材、編成、攻略ガイドを網羅した鳴潮（Wuthering Waves）プレイヤー向けの総合Wikiです！",
+    "legalNotice": "非公式ファンWikiです。プレイヤーがプレイヤーのために作成しています。"
+  },
+  "nav": {
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "build": "ビルド",
+    "combat": "戦闘",
+    "lore": "ストーリー",
+    "characters": "キャラクター",
+    "media": "メディア"
+  },
+  "home": {
+    "meta": {
+      "title": "Shorekeeper Wiki - ビルド・攻略・エコー・編成",
+      "description": "Shorekeeper（ショアキーパー）のビルド、武器、エコー、スキル、素材、編成、攻略ガイドを網羅した鳴潮（Wuthering Waves）プレイヤー向けの総合Wikiです！"
+    },
+    "hero": {
+      "eyebrow": "星5サポート共鳴者ガイド",
+      "title": "Shorekeeper Wiki",
+      "description": "Shorekeeper（ショアキーパー）のビルド、武器、エコー、編成、素材、スキル、立ち回りをまとめた総合ガイド。鳴潮プレイヤー必見です。",
+      "stats": [
+        "星5レアリティ",
+        "回折属性",
+        "増幅器（整流器）",
+        "サポート役"
+      ],
+      "primaryCta": "ビルドガイド",
+      "secondaryCta": "エコー＆武器ガイド",
+      "tertiaryCta": "編成ガイド",
+      "videoLabel": "共鳴者紹介"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Shorekeeper Wiki の歩き方",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "Shorekeeperの役割、優先して上げるべきスキル、バフ時間を無駄にしない交代の立ち回りを解説します。"
+        },
+        {
+          "number": "2",
+          "title": "最強ビルド",
+          "description": "エコーで元素効率とHP%を積み、回復量を高く保ちながら退場スキルの会心バフを伸ばしましょう。"
+        },
+        {
+          "number": "3",
+          "title": "編成",
+          "description": "Stellarealm（星域）を最も活かせるアタッカーと、それを軸にしたローテーションを紹介します。"
+        },
+        {
+          "number": "4",
+          "title": "素材集め",
+          "description": "突破素材と共鳴スキル素材を正しい順序で計画し、引いた直後から戦力化しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "ビルドガイド",
+        "エコーセット",
+        "編成ガイド"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "サポート役としての立ち回りから最初のローテーションまで、新規Shorekeeper所有者に必要なすべて。",
+          "href": "/guide/shorekeeper-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "最強ビルド",
+          "description": "回復量を高く保ちバフを伸ばし続ける、元素効率とHP%の優先度。",
+          "href": "/guide/shorekeeper-build-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "エコービルド",
+          "description": "癒しの輝きと月光の雲を比較し、各枠のメインステータス目標を解説。",
+          "href": "/build/shorekeeper-echo-build"
+        },
+        {
+          "badge": "更新",
+          "title": "武器ガイド",
+          "description": "サポート性能に合う増幅器と、狙う価値のあるステータス。",
+          "href": "/build/shorekeeper-weapon"
+        },
+        {
+          "badge": "人気",
+          "title": "編成ガイド",
+          "description": "Stellarealmを活かす最強の並びと、それを支えるローテーション。",
+          "href": "/guide/shorekeeper-team"
+        },
+        {
+          "badge": "新着",
+          "title": "素材ガイド",
+          "description": "突破素材と共鳴スキル素材を、結晶波長板に優しい順序で整理。",
+          "href": "/build/shorekeeper-materials"
+        },
+        {
+          "badge": "人気",
+          "title": "ローテーションガイド",
+          "description": "フィールドを維持し、Binary Butterflyをアタッカーに渡すスキル順。",
+          "href": "/guide/shorekeeper-rotation"
+        },
+        {
+          "badge": "新着",
+          "title": "ガチャ＆復刻",
+          "description": "ガチャの全履歴、開催日、次回復刻に向けた計画。",
+          "href": "/characters/shorekeeper-rerun"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Shorekeeperとは？",
+      "paragraphs": [
+        "Shorekeeperは『鳴潮（Wuthering Waves）』に登場する星5の回折属性共鳴者で、増幅器を扱い、回復とサポートの枠を担います。物語では黒海岸の守護者であり、第二の個体と呼ばれる存在です。ソノラ球と高純度の残響エネルギー結晶から生まれたとされ、テティスシステムを導き、黒海岸が危機に瀕したときだけ姿を現します。",
+        "戦闘ではダメージディーラーではなくバフエンジンです。共鳴解放「End Loop」で星域（Stellarealm）を展開し、チームを回復しつつ会心率と会心ダメージを高めます。退場スキル「Binary Butterfly」はそのボーナスを次に交代したキャラクターへ引き継ぎます。これらのバフは元素効率に応じてスケールするため、本Wikiでは彼女のフィールドを維持するステータス、エコー、編成、ローテーションを中心に扱います。"
+      ],
+      "stats": [
+        {
+          "label": "レアリティ",
+          "value": "星5"
+        },
+        {
+          "label": "属性",
+          "value": "回折"
+        },
+        {
+          "label": "武器",
+          "value": "増幅器"
+        },
+        {
+          "label": "役割",
+          "value": "回復／サポート"
+        },
+        {
+          "label": "所属",
+          "value": "黒海岸"
+        },
+        {
+          "label": "実装バージョン",
+          "value": "1.3"
+        },
+        {
+          "label": "代表スキル",
+          "value": "End Loop"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Shorekeeper Wikiを探検",
+      "description": "Shorekeeperを引いた人に必要なすべて：始め方、ビルドとエコーの優先度、素材集めの順序、編成、そしてバフを維持する元素効率の目標値。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Shorekeeper Wiki 初心者ガイド",
+          "description": "Shorekeeperを引いたばかりのプレイヤー向けの入門ガイド。回折サポートとしての役割、優先して上げるスキル、ローテーションを崩さない交代の習慣を解説します。",
+          "href": "/guide/shorekeeper-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "1つのノードをカンストさせる前に、まず突破フェーズ4〜5を目指す"
+            },
+            {
+              "label": "2",
+              "detail": "回復量とバフ維持のため、混沌理論とEnd Loopを最優先で上げる"
+            },
+            {
+              "label": "3",
+              "detail": "攻撃力ステータスではなく元素効率を持つ増幅器を装備する"
+            },
+            {
+              "label": "4",
+              "detail": "共鳴回路が満タンの状態で交代し、Binary Butterflyをアタッカーに届ける"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Shorekeeper Wiki 素材レシピ",
+          "description": "Shorekeeperが消費する突破素材と共鳴スキル素材のリファレンス。鳴潮のビルドが依存する6種類の素材枠に分類。",
+          "href": "/build",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "共鳴者EXP",
+              "detail": "模擬訓練やイベント、クエスト報酬でレベル1から90まで"
+            },
+            {
+              "label": "シェルクレジット",
+              "detail": "あらゆる強化で消費。模擬訓練やタセットフィールドで入手"
+            },
+            {
+              "label": "通常素材",
+              "detail": "フィールドの敵から得られる突破・共鳴スキル素材。結晶波長板は不要"
+            },
+            {
+              "label": "合成素材",
+              "detail": "合成チャレンジで得られる突破・共鳴スキル素材"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Shorekeeper Wiki 素材集めガイド",
+          "description": "突破と共鳴スキル強化をどれだけ妨げるかでランク付けした、Shorekeeper素材集めの優先リスト。",
+          "href": "/build/shorekeeper-materials",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "通常の敵ドロップ - どこでも無料で集められ、突破と共鳴スキルの両方に使える"
+            },
+            {
+              "label": "A",
+              "detail": "合成チャレンジ素材 - 両方の強化に必要で、毎日の結晶波長板を使う価値がある"
+            },
+            {
+              "label": "B",
+              "detail": "フィールドボスドロップ - 突破フェーズを左右し、1日の挑戦回数に制限がある"
+            },
+            {
+              "label": "C",
+              "detail": "週ボス素材 - 上位の共鳴スキルノード専用で、週ごとに上限がある"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Shorekeeper Wiki エコーガイド",
+          "description": "Shorekeeperのエコーセットの入手先と集める順序。定番の癒しの輝きビルドから月光の雲の代替案まで。",
+          "href": "/build/shorekeeper-echo-build",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "まず癒しの輝きを集める - 回復を強化し、チームの攻撃力バフに変換する"
+            },
+            {
+              "label": "2",
+              "detail": "コスト3のエコー2つは元素効率をメインステータスに保つ"
+            },
+            {
+              "label": "3",
+              "detail": "コスト1のエコーにはHP%を付け、回復を強化する"
+            },
+            {
+              "label": "4",
+              "detail": "元素効率の目標値に届かないときだけ月光の雲に切り替える"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Shorekeeper Wiki アイテムデータベース",
+          "description": "エコーのメインステータスから必殺技を支える増幅器の優先度まで、Shorekeeperに必要なステータスと装備の早見表。",
+          "href": "/build/shorekeeper-ideal-stats",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "元素効率",
+              "detail": "最優先。End Loopを支え、退場スキルの会心バフを伸ばす"
+            },
+            {
+              "label": "HP%",
+              "detail": "回復量を伸ばし、長期戦でも生存させる"
+            },
+            {
+              "label": "回復効果",
+              "detail": "回復量だけを伸ばすため、元素効率とHPの次の状況次第"
+            },
+            {
+              "label": "増幅器",
+              "detail": "彼女の武器タイプ。元素効率パッシブを持つものを選ぶ"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Shorekeeper Wiki 更新ニュース",
+          "description": "1.3での実装から各復刻期間、次回までに予想されることをまとめたShorekeeperのガチャとバージョンのニュース。",
+          "href": "/characters/shorekeeper-rerun",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "実装",
+              "detail": "バージョン1.3、2024年9月29日〜10月24日"
+            },
+            {
+              "label": "復刻",
+              "detail": "バージョン2.2、2025年4月17日〜4月28日"
+            },
+            {
+              "label": "ガチャ",
+              "detail": "期間限定召集「海が晴れるまで」"
+            },
+            {
+              "label": "引くコツ",
+              "detail": "限定星5なので早めに星声を貯めておく"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Shorekeeper Wiki ゲームプレイ機能",
+          "description": "回復と会心バフからローテーションの軸となる星域フィールドまで、Shorekeeperがチームにもたらすものの概要。",
+          "href": "/combat/shorekeeper-kit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "回復",
+              "detail": "End Loopで周囲の共鳴者のHPを回復する"
+            },
+            {
+              "label": "会心バフ",
+              "detail": "星域がチーム全体の会心率と会心ダメージを高める"
+            },
+            {
+              "label": "フィールド",
+              "detail": "操作中の共鳴者に追従し、彼女が退場しても持続するフィールド効果"
+            },
+            {
+              "label": "交代",
+              "detail": "フィールドに出て数秒で交代できる"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Shorekeeper Wiki ステータス目標",
+          "description": "End Loopと会心バフを維持するためにビルドが必要とする元素効率の目安をまとめたリファレンス。",
+          "href": "/build/shorekeeper-er-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "180%未満",
+              "detail": "End Loopがローテーションに間に合わずバフが切れるため、ビルドを見直す必要がある"
+            },
+            {
+              "label": "180〜200%",
+              "detail": "元素効率武器を使った場合の最低ライン"
+            },
+            {
+              "label": "200〜230%",
+              "detail": "多くのプレイヤーにとって安定した維持と強力な会心バフ"
+            },
+            {
+              "label": "230〜250%",
+              "detail": "元素効率スケーリングのバフの上限付近。エンドゲームに最適"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Shorekeeper Wiki FAQ",
+      "description": "鳴潮のShorekeeperに関するよくある質問への簡潔な回答。",
+      "items": [
+        {
+          "question": "鳴潮のShorekeeperとは誰ですか？",
+          "answer": "Shorekeeperは増幅器を扱い、回復とサポート枠を担う星5の回折属性共鳴者です。黒海岸の守護者であり第二の個体と呼ばれ、バージョン1.3の期間限定召集「海が晴れるまで」で実装されました。"
+        },
+        {
+          "question": "Shorekeeperのビルドはどのステータスを重視すべき？",
+          "answer": "元素効率とHP%です。Shorekeeperは攻撃力や会心ステータスを必要としません。彼女の価値は回復と、退場スキルで次の共鳴者に渡す会心率・会心ダメージバフにあり、どちらも元素効率とHPに応じてスケールします。"
+        },
+        {
+          "question": "Shorekeeperにはどれくらい元素効率が必要？",
+          "answer": "安定した維持には200%〜230%が目安で、230%〜250%で元素効率スケーリングのバフの上限に近づきます。180%を下回るとEnd Loopがローテーションに間に合わず、バフが切れます。"
+        },
+        {
+          "question": "Shorekeeperの最適なエコーセットは？",
+          "answer": "回復を強化しチームの攻撃力バフに変換する癒しの輝きが定番です。元素効率の目標値に届かない場合の主な代替が月光の雲です。"
+        },
+        {
+          "question": "Shorekeeperのガチャはいつ復刻しますか？",
+          "answer": "Shorekeeperは限定星5のため、Kuro Gamesが復刻を予定したときだけガチャが戻ります。バージョン1.3で実装され、バージョン2.2で復刻したので、次の開催時期は鳴潮の公式チャンネルを確認してください。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Shorekeeperを極める準備はできましたか？",
+      "description": "最初の共鳴者ガチャからエンドゲームの編成まで、コミュニティWikiが無料で最新のガイドをお届けします。",
+      "primary": "ビルドガイドを読む",
+      "secondary": "PC＆PS5でプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Shorekeeper ガイドハブ",
+    "overviewDescription": "Shorekeeperのビルド、最強編成、ローテーション、そして鳴潮で最速で戦力化する方法を扱うガイドの入口です。"
+  },
+  "build": {
+    "overviewTitle": "Shorekeeper ビルド＆装備",
+    "overviewDescription": "エコー、武器、ステータス、元素効率の目標、装備を完成させるための素材を扱うShorekeeperのビルドガイド。"
+  },
+  "combat": {
+    "overviewTitle": "Shorekeeper 戦闘＆スキル",
+    "overviewDescription": "スキル、必殺技、登場スキルと退場スキル、サポートバフを支えるコンボとローテーションのタイミングまで、Shorekeeperの性能を分解して解説。"
+  },
+  "lore": {
+    "overviewTitle": "Shorekeeper ストーリー＆設定",
+    "overviewDescription": "Shorekeeperの背景、物語での役割、クエスト、ボイス、鳴潮の主人公との関係を扱う考察記事。"
+  },
+  "characters": {
+    "overviewTitle": "Shorekeeper キャラクターガイド",
+    "overviewDescription": "ガチャと復刻の履歴、共鳴チェーン、ヴェリーナやモルニエなど他のサポートとの比較を含むShorekeeperのキャラクター解説。"
+  },
+  "media": {
+    "overviewTitle": "Shorekeeper メディア",
+    "overviewDescription": "黒海岸の守護者ファン向けのShorekeeper壁紙、GIF、ファンアート、コスプレ、OST、声優特集。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "ゲームをプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "ガイドはまだありません。近日公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "Shorekeeper Wiki",
+    "about": "Shorekeeper Wikiは、鳴潮プレイヤー向けにビルド、武器、エコー、編成、素材、基本的なゲーム知識を扱う独立系のファン制作ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Shorekeeper Wiki. Kuro Gamesとは提携していません。",
+    "description": "ビルド、エコー、編成、素材を扱う鳴潮の星5回折共鳴者ガイド。",
+    "playGame": "鳴潮をプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "officialWebsite": "公式サイト",
+    "beginnerGuide": "初心者ガイド",
+    "buildGuide": "ビルドガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "characterGuides": "キャラクターガイド",
+    "combatGuides": "戦闘ガイド"
+  }
+}

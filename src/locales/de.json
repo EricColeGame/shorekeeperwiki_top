@@ -1,1 +1,467 @@
-{}
+{
+  "site": {
+    "name": "Shorekeeper Wiki",
+    "shortName": "Shorekeeper",
+    "tagline": "Builds, Echos, Teams & Guides",
+    "description": "Entdecke das Shorekeeper Wiki mit kompletten Builds, Waffen, Echos, Skills, Materialien, Teams und Gameplay-Guides für Wuthering-Waves-Spieler!",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "build": "Build",
+    "combat": "Kampf",
+    "lore": "Lore",
+    "characters": "Charaktere",
+    "media": "Medien"
+  },
+  "home": {
+    "meta": {
+      "title": "Shorekeeper Wiki - Build, Guide, Echos & Teams",
+      "description": "Entdecke das Shorekeeper Wiki mit kompletten Builds, Waffen, Echos, Skills, Materialien, Teams und Gameplay-Guides für Wuthering-Waves-Spieler!"
+    },
+    "hero": {
+      "eyebrow": "5-Sterne-Support-Resonator-Guide",
+      "title": "Shorekeeper Wiki",
+      "description": "Der komplette Shorekeeper-Guide zu Builds, Waffen, Echos, Teams, Materialien, Skills und Gameplay-Tipps für Wuthering-Waves-Spieler.",
+      "stats": [
+        "5-Sterne-Seltenheit",
+        "Spectro-Attribut",
+        "Rectifier-Waffe",
+        "Support-Rolle"
+      ],
+      "primaryCta": "Build-Guide",
+      "secondaryCta": "Echo- & Waffen-Guide",
+      "tertiaryCta": "Team-Zusammenstellungen",
+      "videoLabel": "Resonator-Showcase"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise im Shorekeeper Wiki",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Guide",
+          "description": "Lerne, was die Shorekeeper macht, welche Fähigkeiten zuerst gelevelt werden und wie du sie ein- und auswechselst, ohne ihr Buff-Fenster zu verschwenden."
+        },
+        {
+          "number": "2",
+          "title": "Bestes Build",
+          "description": "Staple Energie-Regeneration und HP% auf ihren Echos, damit ihr Healing hoch bleibt und ihre Outro-Crit-Buffs weiter skalieren."
+        },
+        {
+          "number": "3",
+          "title": "Team-Comps",
+          "description": "Sieh, welche Main-Damage-Dealer am meisten von ihrem Stellarealm profitieren und wie du die Rotation um sie herum aufbaust."
+        },
+        {
+          "number": "4",
+          "title": "Materialien farmen",
+          "description": "Plane ihre Ascension- und Forte-Materialien in der richtigen Reihenfolge, damit ein frischer Pull schnell einsatzbereit ist."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade angesagt",
+      "quickLinks": [
+        "Anfänger-Guide",
+        "Build-Guide",
+        "Echo-Sets",
+        "Team-Comps"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfänger-Guide",
+          "description": "Alles, was ein neuer Shorekeeper-Besitzer braucht, von der Support-Rolle bis zur ersten sauberen Rotation.",
+          "href": "/guide/shorekeeper-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Bestes Build",
+          "description": "Prioritäten bei Energie-Regeneration und HP%, damit ihr Healing hoch bleibt und ihre Buffs skalieren.",
+          "href": "/guide/shorekeeper-build-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Echo-Build",
+          "description": "Rejuvenating Glow und Moonlit Clouds im Vergleich, mit Hauptstat-Zielen für jeden Slot.",
+          "href": "/build/shorekeeper-echo-build"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Waffen-Guide",
+          "description": "Welche Rectifier zu ihrem Support-Kit passen und welche Stats sich lohnen.",
+          "href": "/build/shorekeeper-weapon"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Team-Comps",
+          "description": "Die stärksten Aufstellungen für ihr Stellarealm und die Rotationen, die sie zusammenhalten.",
+          "href": "/guide/shorekeeper-team"
+        },
+        {
+          "badge": "Neu",
+          "title": "Materialien-Guide",
+          "description": "Ascension- und Forte-Materialien in einer Waveplate-freundlichen Farmreihenfolge.",
+          "href": "/build/shorekeeper-materials"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Rotations-Guide",
+          "description": "Die Fähigkeitsreihenfolge, die ihr Feld oben hält und Binary Butterfly an deinen Carry weitergibt.",
+          "href": "/guide/shorekeeper-rotation"
+        },
+        {
+          "badge": "Neu",
+          "title": "Banner & Rerun",
+          "description": "Ihre komplette Banner-Historie, Termine und Pull-Planung für den nächsten Rerun.",
+          "href": "/characters/shorekeeper-rerun"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist die Shorekeeper?",
+      "paragraphs": [
+        "Die Shorekeeper ist ein 5-Sterne-Spectro-Resonator in Wuthering Waves, der einen Rectifier führt und den Heiler- und Support-Slot besetzt. In der Story ist sie die Wächterin der Black Shores und als Zweite Instanz bekannt – ein Wesen, das aus Sonoro-Sphären und hochreinen Remnant-Energy-Kristallen geformt sein soll, das Tethys-System leitet und nur erscheint, wenn die Black Shores in eine Krise geraten.",
+        "Im Kampf ist sie eine Buff-Maschine und kein Damage Dealer. Ihre Resonance Liberation, End Loop, entfaltet das Stellarealm-Feld, das das Team heilt und Crit Rate sowie Crit DMG erhöht, während ihr Outro Skill, Binary Butterfly, diese Boni an den nächsten eingewechselten Charakter weitergibt. Da diese Buffs mit ihrer Energie-Regeneration skalieren, konzentriert sich dieses Wiki auf die Stats, Echos, Teams und Rotationen, die ihr Feld aktiv halten."
+      ],
+      "stats": [
+        {
+          "label": "Seltenheit",
+          "value": "5 Sterne"
+        },
+        {
+          "label": "Element",
+          "value": "Spectro"
+        },
+        {
+          "label": "Waffe",
+          "value": "Rectifier"
+        },
+        {
+          "label": "Rolle",
+          "value": "Heiler / Support"
+        },
+        {
+          "label": "Fraktion",
+          "value": "The Black Shores"
+        },
+        {
+          "label": "Debüt-Version",
+          "value": "1.3"
+        },
+        {
+          "label": "Signatur-Skill",
+          "value": "End Loop"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Shorekeeper Wiki erkunden",
+      "description": "Alles, was ein Shorekeeper-Besitzer braucht: Einstiegsschritte, Build- und Echo-Prioritäten, Farmreihenfolge für Materialien, Team-Comps und die Energie-Regenerations-Ziele, die ihre Buffs am Laufen halten.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Shorekeeper Wiki Anfänger-Guide",
+          "description": "Ein Einstiegs-Guide für Spieler, die die Shorekeeper gerade gezogen haben: ihre Spectro-Support-Rolle, die zuerst zu levelnden Fähigkeiten und die Wechselgewohnheiten, die ihre Rotationen sauber halten.",
+          "href": "/guide/shorekeeper-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Erst auf Phase 4 oder 5 ascenden, bevor ein einzelner Node aufs Maximum gebracht wird"
+            },
+            {
+              "label": "2",
+              "detail": "Chaos Theory und End Loop zuerst leveln für Healing und Buff-Uptime"
+            },
+            {
+              "label": "3",
+              "detail": "Einen Rectifier mit Energie-Regeneration statt eines ATK-Stat-Sticks ausrüsten"
+            },
+            {
+              "label": "4",
+              "detail": "Sie bei vollem Concerto-Balken auswechseln, damit Binary Butterfly deinen Carry erreicht"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Shorekeeper Wiki Crafting-Rezepte",
+          "description": "Eine Referenz für die Ascension- und Forte-Materialien, die die Shorekeeper verbraucht, gruppiert in die sechs Material-Kategorien, von denen jeder Wuthering-Waves-Build abhängt.",
+          "href": "/build",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Resonator-EXP",
+              "detail": "Leveln von 1 auf 90 über Simulationstraining, Events und Quest-Belohnungen"
+            },
+            {
+              "label": "Shell Credits",
+              "detail": "Werden bei jedem Upgrade verbraucht und in Simulationstraining und Tacet Fields gefarmt"
+            },
+            {
+              "label": "Normale Drops",
+              "detail": "Ascension- und Forte-Materialien von Overworld-Mobs, kosten keine Waveplates"
+            },
+            {
+              "label": "Fälschungs-Mats",
+              "detail": "Ascension- und Forte-Materialien aus Forgery Challenges"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Shorekeeper Wiki Farm-Guide",
+          "description": "Eine Prioritätsliste für das Farmen von Shorekeeper-Materialien, sortiert danach, wie stark jede Kategorie ihre Ascension und Forte-Upgrades blockiert.",
+          "href": "/build/shorekeeper-materials",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Drops normaler Gegner – überall kostenlos farmbar und für Ascension und Forte nutzbar"
+            },
+            {
+              "label": "A",
+              "detail": "Forgery-Challenge-Materialien – auf beiden Pfaden nötig und tägliche Waveplates wert"
+            },
+            {
+              "label": "B",
+              "detail": "Overworld-Boss-Drop – bestimmt Ascension-Phasen und ist durch tägliche Versuche begrenzt"
+            },
+            {
+              "label": "C",
+              "detail": "Wöchentliches Boss-Material – nur für High-Tier-Forte-Nodes und pro Woche begrenzt"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Shorekeeper Wiki Echo-Guide",
+          "description": "Woher die Echo-Sets der Shorekeeper kommen und in welcher Reihenfolge man sie farmt, vom Standard-Build Rejuvenating Glow bis zur Alternative Moonlit Clouds.",
+          "href": "/build/shorekeeper-echo-build",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Zuerst Rejuvenating Glow farmen – verstärkt Healing und wandelt es in einen Team-ATK-Buff um"
+            },
+            {
+              "label": "2",
+              "detail": "Energie-Regeneration als Hauptstat auf beiden 3-Kosten-Echos behalten"
+            },
+            {
+              "label": "3",
+              "detail": "HP% auf den 1-Kosten-Echos nutzen, um ihr Healing zu stärken"
+            },
+            {
+              "label": "4",
+              "detail": "Nur zu Moonlit Clouds wechseln, wenn du dein Energie-Regenerations-Ziel nicht erreichst"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Shorekeeper Wiki Item-Datenbank",
+          "description": "Eine Schnellreferenz zu den Stats und Ausrüstung, die die Shorekeeper will – von Echo-Hauptstats bis zu den Rectifier-Prioritäten, die ihren Ultimate finanzieren.",
+          "href": "/build/shorekeeper-ideal-stats",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Energie-Regeneration",
+              "detail": "Ihre höchste Priorität; finanziert End Loop und skaliert die Crit-Buffs ihres Outro Skills"
+            },
+            {
+              "label": "HP%",
+              "detail": "Skaliert ihr Healing und hält sie in langen Endgame-Kämpfen am Leben"
+            },
+            {
+              "label": "Healing-Bonus",
+              "detail": "Nur größere Heals, daher situativ neben Energie-Regeneration und HP"
+            },
+            {
+              "label": "Rectifier",
+              "detail": "Ihr Waffentyp; wähle einen mit Energie-Regenerations-Passiv"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Shorekeeper Wiki Update-News",
+          "description": "Banner- und Versions-News zur Shorekeeper, von ihrem Debüt in 1.3 über jedes Rerun-Fenster bis zu dem, was vor dem nächsten zu erwarten ist.",
+          "href": "/characters/shorekeeper-rerun",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Debüt",
+              "detail": "Version 1.3, 29. September bis 24. Oktober 2024"
+            },
+            {
+              "label": "Rerun",
+              "detail": "Version 2.2, 17. April bis 28. April 2025"
+            },
+            {
+              "label": "Banner",
+              "detail": "Limitiertes Convene „Till the Sea Turns Clear“"
+            },
+            {
+              "label": "Pull-Tipp",
+              "detail": "Früh Astrite ansparen, denn sie ist ein limitierter Fünf-Sterne"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Shorekeeper Wiki Gameplay-Features",
+          "description": "Ein Überblick darüber, was die Shorekeeper ins Team bringt – von Healing und Crit-Buffs bis zum Stellarealm-Feld, das ihre Rotationen verankert.",
+          "href": "/combat/shorekeeper-kit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Healing",
+              "detail": "End Loop stellt HP naher Resonatoren wieder her"
+            },
+            {
+              "label": "Crit-Buffs",
+              "detail": "Das Stellarealm erhöht Crit Rate und Crit DMG für das ganze Team"
+            },
+            {
+              "label": "Feld",
+              "detail": "Ein Feldeffekt, der dem aktiven Resonator folgt und auch nach ihrem Abgang bestehen bleibt"
+            },
+            {
+              "label": "Wechsel",
+              "detail": "Sie braucht nur wenige Sekunden auf dem Feld, bevor sie auswechselt"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Shorekeeper Wiki Stat-Anforderungen",
+          "description": "Eine Referenz zu den Energie-Regenerations-Benchmarks der Shorekeeper, die zeigt, wie viel ER ihr Build braucht, um End Loop und ihre Crit-Buffs aktiv zu halten.",
+          "href": "/build/shorekeeper-er-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Unter 180%",
+              "detail": "End Loop verpasst Rotationen und die Buffs fallen ab, das Build braucht eine Überarbeitung"
+            },
+            {
+              "label": "180–200%",
+              "detail": "Ein machbares Budget-Minimum mit einer Energie-Regenerations-Waffe"
+            },
+            {
+              "label": "200–230%",
+              "detail": "Zuverlässige Uptime und starke Crit-Buffs für die meisten Spieler"
+            },
+            {
+              "label": "230–250%",
+              "detail": "Nahe am Maximum ihrer energie-regenerations-skalierenden Buffs, ideal fürs Endgame"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Shorekeeper Wiki FAQ",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zur Shorekeeper in Wuthering Waves.",
+      "items": [
+        {
+          "question": "Wer ist die Shorekeeper in Wuthering Waves?",
+          "answer": "Die Shorekeeper ist ein 5-Sterne-Spectro-Resonator, der einen Rectifier führt und den Heiler- und Support-Slot besetzt. Sie ist die Wächterin der Black Shores, bekannt als Zweite Instanz, und debütierte in Version 1.3 im Convene „Till the Sea Turns Clear“."
+        },
+        {
+          "question": "Auf welche Stats sollte ein Shorekeeper-Build setzen?",
+          "answer": "Energie-Regeneration und HP%. Die Shorekeeper braucht keine ATK- oder Crit-Stats, denn ihr Wert kommt aus Healing und den Crit-Rate- und Crit-DMG-Buffs, die ihr Outro Skill an den nächsten Resonator weitergibt – beide skalieren mit Energie-Regeneration und HP."
+        },
+        {
+          "question": "Wie viel Energie-Regeneration braucht die Shorekeeper?",
+          "answer": "Die meisten Spieler landen für zuverlässige Uptime zwischen 200% und 230%, während 230% bis 250% sich der Obergrenze ihrer energie-regenerations-skalierenden Buffs nähert. Unter 180% verpasst End Loop Rotationen und die Buffs fallen ab."
+        },
+        {
+          "question": "Was ist das beste Echo-Set für die Shorekeeper?",
+          "answer": "Rejuvenating Glow ist das Standard-Set, weil es Healing verstärkt und in einen Team-ATK-Buff umwandelt. Moonlit Clouds ist die wichtigste Alternative, wenn du dein Energie-Regenerations-Ziel auf der Shorekeeper nicht erreichst."
+        },
+        {
+          "question": "Wann kehrt das Shorekeeper-Banner zurück?",
+          "answer": "Die Shorekeeper ist ein limitierter Fünf-Sterne, daher kehrt ihr Banner nur zurück, wenn Kuro Games ein Rerun ansetzt. Sie debütierte in Version 1.3 und kehrte in einem Rerun zu Version 2.2 zurück, also prüfe die offiziellen Wuthering-Waves-Kanäle für das nächste Fenster."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, die Shorekeeper zu meistern?",
+      "description": "Vom ersten Resonator-Pull bis zu Endgame-Team-Comps hält dich unser Community-Wiki mit kostenlosen, aktuellen Guides auf dem Laufenden.",
+      "primary": "Den Build-Guide lesen",
+      "secondary": "Auf PC & PS5 spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Shorekeeper Guide-Hub",
+    "overviewDescription": "Starte hier für Shorekeeper-Guides zu Build, besten Teams, Rotation und dem schnellsten Weg, sie in Wuthering Waves kampfbereit zu machen."
+  },
+  "build": {
+    "overviewTitle": "Shorekeeper Builds & Ausrüstung",
+    "overviewDescription": "Shorekeeper-Build-Guides zu Echos, Waffen, Stats, Energie-Regenerations-Zielen und den Materialien, die du zum Fertigstellen ihrer Ausrüstung brauchst."
+  },
+  "combat": {
+    "overviewTitle": "Shorekeeper Kampf & Skills",
+    "overviewDescription": "Zerlege das Kit der Shorekeeper – Fähigkeiten, Ultimate, Intro- und Outro-Skills sowie Combo- und Rotationstiming hinter ihren Support-Buffs."
+  },
+  "lore": {
+    "overviewTitle": "Shorekeeper Lore & Story",
+    "overviewDescription": "Shorekeeper-Lore-Artikel zu Hintergrund, Story-Rolle, Quests, Voice Lines und ihrer Beziehung zu Rover in Wuthering Waves."
+  },
+  "characters": {
+    "overviewTitle": "Shorekeeper Charakter-Guides",
+    "overviewDescription": "Shorekeeper-Charakterberichte inklusive Banner- und Rerun-Historie, Sequenzen und Vergleich mit anderen Wuthering-Waves-Supportern wie Verina und Mornye."
+  },
+  "media": {
+    "overviewTitle": "Shorekeeper Medien",
+    "overviewDescription": "Shorekeeper-Wallpaper, GIFs, Fanart, Cosplay, OST und Voice-Actor-Features für Fans der Wächterin der Black Shores."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Spiel starten",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Artikel",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Shorekeeper Wiki",
+    "about": "Das Shorekeeper Wiki ist ein unabhängiger, von Fans gebauter Guide-Hub zu Builds, Waffen, Echos, Teams, Materialien und wichtigem Spielwissen für Wuthering-Waves-Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Shorekeeper Wiki. Nicht mit Kuro Games verbunden.",
+    "description": "Guide zum 5-Sterne-Spectro-Resonator aus Wuthering Waves mit Builds, Echos, Teams und Materialien.",
+    "playGame": "Wuthering Waves spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "officialWebsite": "Offizielle Website",
+    "beginnerGuide": "Anfänger-Guide",
+    "buildGuide": "Build-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen",
+    "characterGuides": "Charakter-Guides",
+    "combatGuides": "Kampf-Guides"
+  }
+}

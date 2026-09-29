@@ -1,1 +1,467 @@
-{}
+{
+  "site": {
+    "name": "Shorekeeper Wiki",
+    "shortName": "Shorekeeper",
+    "tagline": "빌드·메아리·팀·가이드",
+    "description": "Shorekeeper(쇼어키퍼)의 빌드, 무기, 메아리, 스킬, 재료, 팀, 공략 가이드를 모두 담은 명조(Wuthering Waves) 플레이어용 종합 위키입니다!",
+    "legalNotice": "비공식 팬 위키입니다. 플레이어가 플레이어를 위해 만들었습니다."
+  },
+  "nav": {
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환",
+    "guide": "가이드",
+    "build": "빌드",
+    "combat": "전투",
+    "lore": "스토리",
+    "characters": "캐릭터",
+    "media": "미디어"
+  },
+  "home": {
+    "meta": {
+      "title": "Shorekeeper Wiki - 빌드·공략·메아리·팀",
+      "description": "Shorekeeper(쇼어키퍼)의 빌드, 무기, 메아리, 스킬, 재료, 팀, 공략 가이드를 모두 담은 명조(Wuthering Waves) 플레이어용 종합 위키입니다!"
+    },
+    "hero": {
+      "eyebrow": "5성 서포터 공명자 가이드",
+      "title": "Shorekeeper Wiki",
+      "description": "Shorekeeper의 빌드, 무기, 메아리, 팀, 재료, 스킬, 운용 팁을 담은 종합 가이드. 명조 플레이어를 위한 위키입니다.",
+      "stats": [
+        "5성 등급",
+        "회절 속성",
+        "증폭기 무기",
+        "서포터 역할"
+      ],
+      "primaryCta": "빌드 가이드",
+      "secondaryCta": "메아리 & 무기 가이드",
+      "tertiaryCta": "팀 조합",
+      "videoLabel": "공명자 소개"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "시작하기",
+      "title": "Shorekeeper Wiki 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "Shorekeeper의 역할, 먼저 올릴 스킬, 버프 시간을 낭비하지 않는 교체 운용을 배웁니다."
+        },
+        {
+          "number": "2",
+          "title": "최고의 빌드",
+          "description": "메아리에 원소 효율과 HP%를 쌓아 회복량을 유지하고 퇴장 스킬의 치명타 버프를 키웁니다."
+        },
+        {
+          "number": "3",
+          "title": "팀 조합",
+          "description": "Stellarealm(성역)을 가장 잘 활용하는 딜러와 그를 중심으로 한 로테이션을 확인하세요."
+        },
+        {
+          "number": "4",
+          "title": "재료 파밍",
+          "description": "돌파와 공명 스킬 재료를 올바른 순서로 계획해 뽑은 직후 바로 전력화하세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기 있는 글",
+      "quickLinks": [
+        "초보자 가이드",
+        "빌드 가이드",
+        "메아리 세트",
+        "팀 조합"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "서포터 역할부터 첫 로테이션까지, 새 Shorekeeper 보유자에게 필요한 모든 것.",
+          "href": "/guide/shorekeeper-guide"
+        },
+        {
+          "badge": "업데이트",
+          "title": "최고의 빌드",
+          "description": "회복량을 높게 유지하고 버프를 키우는 원소 효율과 HP% 우선순위.",
+          "href": "/guide/shorekeeper-build-guide"
+        },
+        {
+          "badge": "인기",
+          "title": "메아리 빌드",
+          "description": "회생의 빛과 달빛 구름을 비교하고 각 부위의 주 옵션 목표를 정리.",
+          "href": "/build/shorekeeper-echo-build"
+        },
+        {
+          "badge": "업데이트",
+          "title": "무기 가이드",
+          "description": "서포터 성능에 맞는 증폭기와 노려볼 만한 스탯.",
+          "href": "/build/shorekeeper-weapon"
+        },
+        {
+          "badge": "인기",
+          "title": "팀 조합",
+          "description": "Stellarealm을 살리는 최강 조합과 이를 지탱하는 로테이션.",
+          "href": "/guide/shorekeeper-team"
+        },
+        {
+          "badge": "신규",
+          "title": "재료 가이드",
+          "description": "돌파와 공명 스킬 재료를 파동판에 맞는 파밍 순서로 정리.",
+          "href": "/build/shorekeeper-materials"
+        },
+        {
+          "badge": "인기",
+          "title": "로테이션 가이드",
+          "description": "필드를 유지하고 Binary Butterfly를 딜러에게 넘기는 스킬 순서.",
+          "href": "/guide/shorekeeper-rotation"
+        },
+        {
+          "badge": "신규",
+          "title": "뽑기 & 복각",
+          "description": "뽑기 이력, 일정, 다음 복각을 위한 계획.",
+          "href": "/characters/shorekeeper-rerun"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Shorekeeper는 누구인가요?",
+      "paragraphs": [
+        "Shorekeeper는 명조(Wuthering Waves)에 등장하는 5성 회절 공명자로 증폭기를 사용하며 힐러와 서포터 자리를 담당합니다. 스토리에서는 검은 해안의 수호자이자 제2의 개체로 불리며, 소노라 구체와 고순도 잔향 에너지 결정으로 이루어진 존재로 테티스 시스템을 이끌고 검은 해안이 위기에 처할 때만 나타납니다.",
+        "전투에서는 딜러가 아니라 버프 엔진입니다. 공명 해방 'End Loop'로 성역(Stellarealm)을 전개해 팀을 회복시키고 치명타 확률과 치명타 피해를 높이며, 퇴장 스킬 'Binary Butterfly'는 그 보너스를 다음에 교체된 캐릭터에게 넘깁니다. 이 버프는 원소 효율에 비례하므로 이 위키는 그녀의 필드를 유지하는 스탯, 메아리, 팀, 로테이션에 집중합니다."
+      ],
+      "stats": [
+        {
+          "label": "등급",
+          "value": "5성"
+        },
+        {
+          "label": "속성",
+          "value": "회절"
+        },
+        {
+          "label": "무기",
+          "value": "증폭기"
+        },
+        {
+          "label": "역할",
+          "value": "힐러 / 서포터"
+        },
+        {
+          "label": "소속",
+          "value": "검은 해안"
+        },
+        {
+          "label": "출시 버전",
+          "value": "1.3"
+        },
+        {
+          "label": "대표 스킬",
+          "value": "End Loop"
+        }
+      ],
+      "cta": "모든 가이드 살펴보기"
+    },
+    "explore": {
+      "title": "Shorekeeper Wiki 둘러보기",
+      "description": "Shorekeeper 보유자에게 필요한 모든 것: 시작 단계, 빌드와 메아리 우선순위, 재료 파밍 순서, 팀 조합, 버프를 유지하는 원소 효율 목표.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Shorekeeper Wiki 초보자 가이드",
+          "description": "Shorekeeper를 막 뽑은 플레이어를 위한 입문 가이드. 회절 서포터 역할, 먼저 올릴 스킬, 로테이션을 깔끔하게 유지하는 교체 습관을 다룹니다.",
+          "href": "/guide/shorekeeper-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "한 노드를 끝까지 올리기 전에 먼저 돌파 4~5단계를 목표로"
+            },
+            {
+              "label": "2",
+              "detail": "회복과 버프 유지를 위해 카오스 이론과 End Loop를 최우선으로"
+            },
+            {
+              "label": "3",
+              "detail": "공격력 스탯 대신 원소 효율이 달린 증폭기를 장착"
+            },
+            {
+              "label": "4",
+              "detail": "공명 게이지가 가득 찼을 때 교체해 Binary Butterfly를 딜러에게 전달"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Shorekeeper Wiki 제작 재료",
+          "description": "Shorekeeper가 소모하는 돌파·공명 스킬 재료를 정리한 자료. 모든 명조 빌드가 의존하는 6가지 재료 묶음으로 분류.",
+          "href": "/build",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "공명자 EXP",
+              "detail": "모의 훈련, 이벤트, 퀘스트 보상으로 1에서 90까지"
+            },
+            {
+              "label": "셸 크레딧",
+              "detail": "모든 강화에 소모되며 모의 훈련과 타셋 필드에서 파밍"
+            },
+            {
+              "label": "일반 재료",
+              "detail": "필드 몬스터의 돌파·공명 스킬 재료. 파동판을 쓰지 않음"
+            },
+            {
+              "label": "합성 재료",
+              "detail": "합성 챌린지에서 얻는 돌파·공명 스킬 재료"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Shorekeeper Wiki 파밍 가이드",
+          "description": "돌파와 공명 스킬 강화를 얼마나 막는지 순위를 매긴 Shorekeeper 재료 파밍 우선순위.",
+          "href": "/build/shorekeeper-materials",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "일반 몬스터 드롭 - 어디서든 무료로 파밍 가능하며 돌파와 공명 스킬 모두에 사용"
+            },
+            {
+              "label": "A",
+              "detail": "합성 챌린지 재료 - 두 강화 모두 필요하고 매일 파동판을 쓸 가치가 있음"
+            },
+            {
+              "label": "B",
+              "detail": "필드 보스 드롭 - 돌파 단계를 좌우하며 일일 도전 횟수 제한"
+            },
+            {
+              "label": "C",
+              "detail": "주간 보스 재료 - 상위 공명 스킬 노드 전용이며 주간 상한"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Shorekeeper Wiki 메아리 가이드",
+          "description": "Shorekeeper 메아리 세트의 획득처와 파밍 순서. 기본 회생의 빛 빌드부터 달빛 구름 대안까지.",
+          "href": "/build/shorekeeper-echo-build",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "먼저 회생의 빛 파밍 - 회복을 강화해 팀 공격력 버프로 전환"
+            },
+            {
+              "label": "2",
+              "detail": "코스트 3 메아리 둘 다 주 옵션은 원소 효율로 유지"
+            },
+            {
+              "label": "3",
+              "detail": "코스트 1 메아리에 HP%를 붙여 회복 강화"
+            },
+            {
+              "label": "4",
+              "detail": "원소 효율 목표에 못 미칠 때만 달빛 구름으로 교체"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Shorekeeper Wiki 아이템 데이터베이스",
+          "description": "메아리 주 옵션부터 궁극기를 받쳐 주는 증폭기 우선순위까지, Shorekeeper가 원하는 스탯과 장비를 빠르게 보는 자료.",
+          "href": "/build/shorekeeper-ideal-stats",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "원소 효율",
+              "detail": "최우선. End Loop를 받쳐 주고 퇴장 스킬의 치명타 버프를 키움"
+            },
+            {
+              "label": "HP%",
+              "detail": "회복량을 키우고 장기전에서 생존시킴"
+            },
+            {
+              "label": "회복 보너스",
+              "detail": "회복량만 키우므로 원소 효율과 HP 다음의 상황별 선택"
+            },
+            {
+              "label": "증폭기",
+              "detail": "그녀의 무기 유형. 원소 효율 패시브가 있는 것을 선택"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Shorekeeper Wiki 업데이트 소식",
+          "description": "1.3 출시부터 모든 복각 기간과 다음 복각 전 예상까지 담은 Shorekeeper 뽑기·버전 소식.",
+          "href": "/characters/shorekeeper-rerun",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "출시",
+              "detail": "버전 1.3, 2024년 9월 29일 ~ 10월 24일"
+            },
+            {
+              "label": "복각",
+              "detail": "버전 2.2, 2025년 4월 17일 ~ 4월 28일"
+            },
+            {
+              "label": "뽑기",
+              "detail": "기간 한정 초대 '바다가 맑아질 때까지'"
+            },
+            {
+              "label": "뽑기 팁",
+              "detail": "한정 5성이라 별의 소리를 미리 모아 두기"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Shorekeeper Wiki 게임플레이 특징",
+          "description": "회복과 치명타 버프부터 로테이션의 중심이 되는 성역 필드까지, Shorekeeper가 팀에 주는 것의 개요.",
+          "href": "/combat/shorekeeper-kit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "회복",
+              "detail": "End Loop가 주변 공명자의 HP를 회복"
+            },
+            {
+              "label": "치명타 버프",
+              "detail": "성역이 팀 전체의 치명타 확률과 치명타 피해를 높임"
+            },
+            {
+              "label": "필드",
+              "detail": "조작 중인 공명자를 따라가며 그녀가 퇴장해도 지속되는 필드 효과"
+            },
+            {
+              "label": "교체",
+              "detail": "필드에 몇 초만 있다가 교체하면 됨"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Shorekeeper Wiki 스탯 목표",
+          "description": "End Loop와 치명타 버프를 유지하기 위해 빌드가 필요로 하는 원소 효율 기준을 보여 주는 자료.",
+          "href": "/build/shorekeeper-er-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "180% 미만",
+              "detail": "End Loop가 로테이션에 못 미쳐 버프가 꺼지므로 빌드 재정비 필요"
+            },
+            {
+              "label": "180~200%",
+              "detail": "원소 효율 무기를 쓴 상태의 최소 기준"
+            },
+            {
+              "label": "200~230%",
+              "detail": "대부분의 플레이어에게 안정적인 유지와 강력한 치명타 버프"
+            },
+            {
+              "label": "230~250%",
+              "detail": "원소 효율 비례 버프의 상한 근처. 엔드게임에 최적"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Shorekeeper Wiki FAQ",
+      "description": "명조의 Shorekeeper에 대한 가장 흔한 질문에 대한 빠른 답변.",
+      "items": [
+        {
+          "question": "명조에서 Shorekeeper는 누구인가요?",
+          "answer": "Shorekeeper는 증폭기를 사용하며 힐러와 서포터 자리를 담당하는 5성 회절 공명자입니다. 검은 해안의 수호자이자 제2의 개체로 알려져 있으며 버전 1.3의 '바다가 맑아질 때까지' 초대에서 데뷔했습니다."
+        },
+        {
+          "question": "Shorekeeper 빌드는 어떤 스탯에 집중해야 하나요?",
+          "answer": "원소 효율과 HP%입니다. Shorekeeper는 공격력이나 치명타 스탯이 필요 없습니다. 그녀의 가치는 회복과 퇴장 스킬로 다음 공명자에게 넘기는 치명타 확률·치명타 피해 버프에 있으며 둘 다 원소 효율과 HP에 비례합니다."
+        },
+        {
+          "question": "Shorekeeper에게 원소 효율은 얼마나 필요한가요?",
+          "answer": "안정적인 유지에는 200%~230%가 적당하며 230%~250%면 원소 효율 비례 버프의 상한에 가까워집니다. 180% 아래로 떨어지면 End Loop가 로테이션에 못 미쳐 버프가 꺼집니다."
+        },
+        {
+          "question": "Shorekeeper의 최고 메아리 세트는?",
+          "answer": "회복을 강화해 팀 공격력 버프로 바꾸는 회생의 빛이 기본입니다. 원소 효율 목표를 못 채울 때 달빛 구름이 주요 대안입니다."
+        },
+        {
+          "question": "Shorekeeper 뽑기는 언제 복각하나요?",
+          "answer": "Shorekeeper는 한정 5성이라 Kuro Games가 복각을 예고할 때만 돌아옵니다. 버전 1.3에 데뷔해 버전 2.2에 복각했으니 다음 시기는 명조 공식 채널을 확인하세요."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Shorekeeper를 마스터할 준비가 되셨나요?",
+      "description": "첫 공명자 뽑기부터 엔드게임 팀 조합까지, 커뮤니티 위키가 무료 최신 가이드로 도와드립니다.",
+      "primary": "빌드 가이드 읽기",
+      "secondary": "PC & PS5에서 플레이"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Shorekeeper 가이드 허브",
+    "overviewDescription": "Shorekeeper의 빌드, 최고의 팀, 로테이션, 그리고 명조에서 가장 빠르게 전투 준비를 끝내는 방법을 다루는 가이드의 시작점."
+  },
+  "build": {
+    "overviewTitle": "Shorekeeper 빌드 & 장비",
+    "overviewDescription": "메아리, 무기, 스탯, 원소 효율 목표, 장비를 완성하는 데 필요한 재료를 다루는 Shorekeeper 빌드 가이드."
+  },
+  "combat": {
+    "overviewTitle": "Shorekeeper 전투 & 스킬",
+    "overviewDescription": "스킬, 궁극기, 등장·퇴장 스킬, 서포터 버프를 뒷받침하는 콤보와 로테이션 타이밍까지 Shorekeeper의 성능을 분석."
+  },
+  "lore": {
+    "overviewTitle": "Shorekeeper 스토리 & 설정",
+    "overviewDescription": "Shorekeeper의 배경, 스토리에서의 역할, 퀘스트, 보이스, 명조 주인공과의 관계를 다루는 글."
+  },
+  "characters": {
+    "overviewTitle": "Shorekeeper 캐릭터 가이드",
+    "overviewDescription": "뽑기와 복각 이력, 공명 체인, 베리나·모르니에 등 다른 서포터와의 비교를 포함한 Shorekeeper 캐릭터 분석."
+  },
+  "media": {
+    "overviewTitle": "Shorekeeper 미디어",
+    "overviewDescription": "검은 해안의 수호자 팬을 위한 Shorekeeper 배경화면, GIF, 팬아트, 코스프레, OST, 성우 특집."
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "activeCodes": "사용 가능한 코드",
+    "updated": "업데이트",
+    "viewAllCodes": "모든 코드 보기",
+    "playOnRoblox": "게임 플레이",
+    "inThisSection": "이 섹션의 내용",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 글",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 보기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 가이드가 없습니다. 곧 업데이트됩니다!"
+  },
+  "footer": {
+    "aboutTitle": "Shorekeeper Wiki",
+    "about": "Shorekeeper Wiki는 명조 플레이어를 위해 빌드, 무기, 메아리, 팀, 재료, 핵심 게임 지식을 다루는 독립 팬 제작 가이드 허브입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 Shorekeeper Wiki. Kuro Games와 제휴하지 않았습니다.",
+    "description": "빌드, 메아리, 팀, 재료를 다루는 명조 5성 회절 공명자 가이드.",
+    "playGame": "명조 플레이",
+    "officialDiscord": "공식 디스코드",
+    "officialYoutube": "공식 유튜브",
+    "officialWebsite": "공식 웹사이트",
+    "beginnerGuide": "초보자 가이드",
+    "buildGuide": "빌드 가이드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "이용약관",
+    "characterGuides": "캐릭터 가이드",
+    "combatGuides": "전투 가이드"
+  }
+}
