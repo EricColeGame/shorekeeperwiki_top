@@ -8,7 +8,13 @@
   },
   "nav": {
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "build": "Build",
+    "combat": "Combat",
+    "lore": "Lore",
+    "characters": "Characters",
+    "media": "Media"
   },
   "home": {
     "meta": {
@@ -398,7 +404,30 @@
       "secondary": "Play on PC & PS5"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Shorekeeper Guide Hub",
+    "overviewDescription": "Start here for Shorekeeper guides covering her build, best teams, rotation, and the fastest way to get her combat-ready in Wuthering Waves."
+  },
+  "build": {
+    "overviewTitle": "Shorekeeper Builds & Gear",
+    "overviewDescription": "Shorekeeper build guides for Echoes, weapons, stats, Energy Regen targets, and the materials you need to finish her gear."
+  },
+  "combat": {
+    "overviewTitle": "Shorekeeper Combat & Skills",
+    "overviewDescription": "Break down the Shorekeeper kit, including her abilities, Ultimate, Intro and Outro Skills, and the combo and rotation timing behind her support buffs."
+  },
+  "lore": {
+    "overviewTitle": "Shorekeeper Lore & Story",
+    "overviewDescription": "Shorekeeper lore articles covering her background, story role, quests, voice lines, and her relationship with Rover in Wuthering Waves."
+  },
+  "characters": {
+    "overviewTitle": "Shorekeeper Character Guides",
+    "overviewDescription": "Shorekeeper character coverage including her banner and rerun history, Sequences, and how she compares to other Wuthering Waves supports like Verina and Mornye."
+  },
+  "media": {
+    "overviewTitle": "Shorekeeper Media",
+    "overviewDescription": "Shorekeeper wallpapers, GIFs, fan art, cosplay, OST, and voice actor features for fans of the Black Shores guardian."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -429,10 +458,10 @@
     "officialYoutube": "Official YouTube",
     "officialWebsite": "Official Website",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "characterGuides": "Character Guides",
+    "combatGuides": "Combat Guides"
   }
 }
